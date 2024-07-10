@@ -1,0 +1,18 @@
+﻿{
+  "Descriptor": {
+    "UId": "b28c146c-92c1-beb7-32d9-10e7630c7c92",
+    "Name": "MsfSalesExtension",
+    "Type": 1,
+    "ModifiedOnUtc": "\/Date(1720626230000)\/",
+    "Maintainer": "Mobileforce Software",
+    "ProjectPath": "Files/MsfSalesExtension.csproj",
+    "DependsOn": [
+      {
+        "UId": "7f7fd442-73f5-43b9-aae2-a3e87a53abb3",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtLeadOppMgmtApp",
+        "Type": 1
+      }
+    ]
+  }
+}
